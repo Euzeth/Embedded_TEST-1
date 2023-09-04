@@ -1,0 +1,10 @@
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\obj\Debug\임베디드 어플리케이션 구현.csproj.AssemblyReference.cache
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\obj\Debug\임베디드_어플리케이션_구현.winform.resources
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\obj\Debug\임베디드_어플리케이션_구현.Properties.Resources.resources
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\obj\Debug\임베디드 어플리케이션 구현.csproj.GenerateResource.cache
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\obj\Debug\임베디드 어플리케이션 구현.csproj.CoreCompileInputs.cache
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\bin\Debug\임베디드 어플리케이션 구현.exe.config
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\bin\Debug\임베디드 어플리케이션 구현.exe
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\bin\Debug\임베디드 어플리케이션 구현.pdb
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\obj\Debug\임베디드 어플리케이션 구현.exe
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현\obj\Debug\임베디드 어플리케이션 구현.pdb
